@@ -76,3 +76,6 @@ seperti berikut:
 
 ![image](https://user-images.githubusercontent.com/109930500/182095505-7f864246-c9b0-4fb0-84c7-c8aa28002dc7.png)
 
+Hasilnya akan seperti dibawah ini:
+
+![image](https://user-images.githubusercontent.com/109930500/182096176-f0c78a34-3864-4f35-afcd-3ad14ade5eaf.png)
