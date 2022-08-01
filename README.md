@@ -66,5 +66,13 @@ yang terletak di folder app\Http\Controller.
 
 ![image](https://user-images.githubusercontent.com/109930500/182093502-da870689-ffe6-4576-b581-3399066d90a8.png)
 
+Langkah ketiga Buka file KategoriController tersebut dan tambahkan satu fungsi bernama 
+index seperti pada controh skrip dibawah:
 
+![image](https://user-images.githubusercontent.com/109930500/182094141-e57fa2cb-e836-4466-b313-76ad146cd633.png)
+
+Langkah keempat buka file web.php yang ada pada folder routes/web.php tambahkan satu route baru 
+seperti berikut:
+
+![image](https://user-images.githubusercontent.com/109930500/182095505-7f864246-c9b0-4fb0-84c7-c8aa28002dc7.png)
 
