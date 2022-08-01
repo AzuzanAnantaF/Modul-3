@@ -82,4 +82,10 @@ Hasilnya akan seperti dibawah ini:
 ![image](https://user-images.githubusercontent.com/109930500/182096176-f0c78a34-3864-4f35-afcd-3ad14ade5eaf.png)
 
 ###### 2. 
-Langkah pertama
+Langkah pertama buka file KategoriController tersebut dan tambahkan satu fungsi bernama add yang
+berada didalam class KategoriController extends Controller seperti pada controh skrip dibawah:
+
+![image](https://user-images.githubusercontent.com/109930500/182098208-ba6f4ae4-b8e6-44b1-bb73-a464f93d6b6c.png)
+
+Langkah kedua
+
