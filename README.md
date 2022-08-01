@@ -61,4 +61,9 @@ Jawaban:
 
 ![image](https://user-images.githubusercontent.com/109930500/182089881-6126a9b1-a89f-498c-a577-14ce26ea008c.png)
 
-Langkah kedua
+Langkah kedua buat perintah artisan seperti dibawah ini yang akan menghasilkan satu file baru bernama KategoriController.php 
+yang terletak di folder app\Http\Controller. 
+
+![image](https://user-images.githubusercontent.com/109930500/182093159-d67808cd-99e1-4cb1-8ca1-f9742a801a78.png)
+
+
