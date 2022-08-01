@@ -33,3 +33,14 @@ class BarangController extends Controller
     }
 }
 ```
+
+Kemudian buka file web.php yang ada pada folder routes/web.php tambahkan satu route baru 
+dengen bentuk seperti berikut:
+```
+<?php
+
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\BarangController;
+
+Route::get('/barang', [BarangController::class, 'index']);
+```
