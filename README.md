@@ -57,7 +57,8 @@ SOAL
 
 Jawaban:
 
-1. Langkah pertama masukkan code pemograman dicmd, dengan code seperti dibawah ini.
+######1. 
+Langkah pertama masukkan code pemograman dicmd, dengan code seperti dibawah ini.
 
 ![image](https://user-images.githubusercontent.com/109930500/182089881-6126a9b1-a89f-498c-a577-14ce26ea008c.png)
 
@@ -79,3 +80,6 @@ seperti berikut:
 Hasilnya akan seperti dibawah ini:
 
 ![image](https://user-images.githubusercontent.com/109930500/182096176-f0c78a34-3864-4f35-afcd-3ad14ade5eaf.png)
+
+######2. 
+Langkah pertama
