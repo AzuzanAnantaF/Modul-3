@@ -87,5 +87,12 @@ berada didalam class KategoriController extends Controller seperti pada controh 
 
 ![image](https://user-images.githubusercontent.com/109930500/182098208-ba6f4ae4-b8e6-44b1-bb73-a464f93d6b6c.png)
 
-Langkah kedua
+Langkah kedua buka file web.php yang ada pada folder routes/web.php tambahkan satu route baru seperti berikut:
+
+![image](https://user-images.githubusercontent.com/109930500/182101494-da221145-423c-4fa3-9fa4-452845f6f01f.png)
+
+Hasilnya akan seperti dibawah ini dan jangan lupa tambahkan /add di link agar bisa keluar hasilnya. 
+
+![image](https://user-images.githubusercontent.com/109930500/182103424-6e701aed-c9c5-45b6-961b-051fd07279d8.png)
+
 
