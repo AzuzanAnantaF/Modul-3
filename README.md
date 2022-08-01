@@ -54,3 +54,11 @@ Tapi sebelum membuat itu semua kita harus memasukkan code pemograman dicmd, deng
 SOAL
 1. Buatlah Route yang menuju kehalaman Kategori
 2. Buatlah halaman tambah data di setiap route
+
+Jawaban:
+
+1. Langkah pertama masukkan code pemograman dicmd, dengan code seperti dibawah ini.
+
+![image](https://user-images.githubusercontent.com/109930500/182089881-6126a9b1-a89f-498c-a577-14ce26ea008c.png)
+
+Langkah kedua
