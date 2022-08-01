@@ -51,3 +51,6 @@ Tapi sebelum membuat itu semua kita harus memasukkan code pemograman dicmd, deng
 
 ![image](https://user-images.githubusercontent.com/109930500/182091014-e9e347ad-d65c-4650-97b8-8c1c4db62093.png)
 
+SOAL
+1. Buatlah Route yang menuju kehalaman Kategori
+2. Buatlah halaman tambah data di setiap route
