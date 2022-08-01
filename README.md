@@ -45,6 +45,6 @@ use App\Http\Controllers\BarangController;
 Route::get('/barang', [BarangController::class, 'index']);
 ```
 
-Tapi sebelum membuat itu semua kita harus memasukkan code pemograman dicmd, dengan code seperti dibawah ini:
+Tapi sebelum membuat itu semua kita harus memasukkan code pemograman dicmd, dengan code seperti dibawah ini. Agar website kita berjalan.
 
 ![image](https://user-images.githubusercontent.com/109930500/182089881-6126a9b1-a89f-498c-a577-14ce26ea008c.png)
