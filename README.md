@@ -44,3 +44,5 @@ use App\Http\Controllers\BarangController;
 
 Route::get('/barang', [BarangController::class, 'index']);
 ```
+
+Tapi sebelum membuat itu semua kita harus memasukkan code pemograman dicmd, dengan code seperti dibawah ini:
